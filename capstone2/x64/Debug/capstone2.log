@@ -1,0 +1,11 @@
+﻿  main.cpp
+c:\users\yotop\downloads\opencv\build\include\opencv2\core\mat.hpp(2586): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\yotop\downloads\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\yotop\downloads\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\yotop\downloads\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\yotop\downloads\opencv\build\include\opencv2\imgproc.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\yotop\downloads\opencv\build\include\opencv2\imgproc.hpp(592): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+d:\c++\projects\capstone2\capstone2\main.cpp(86): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+d:\c++\projects\capstone2\capstone2\main.cpp(101): warning C4101: 'coord' :참조되지 않은 지역 변수입니다.
+  capstone2.vcxproj -> D:\C++\Projects\capstone2\x64\Debug\capstone2.exe
+  capstone2.vcxproj -> D:\C++\Projects\capstone2\x64\Debug\capstone2.pdb (Full PDB)
